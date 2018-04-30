@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/setting"
+        android:title="Settings"></item>
+    <item android:id="@+id/users"
+        android:title="Users"></item>
+    <item android:id="@+id/aboutus"
+        android:title="AboutUs"></item>
+    <item android:title=""
+        android:id="@+id/search_id"
+        android:icon="@drawable/search"
+        app:showAsAction="always">
+    </item>
+    <item android:title=""
+        android:id="@+id/cart"
+        android:icon="@drawable/search"
+        app:showAsAction="always">
+    </item>
+</menu>
